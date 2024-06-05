@@ -32,6 +32,11 @@ public class Employee {
 	System.out.println("Method6");	
 	}
 	
+	private void gowtham()
+	{
+		System.out.println("New Method");
+	}
+	
 	public static void main(String[] args) {
 		
 		Employee e = new Employee();
