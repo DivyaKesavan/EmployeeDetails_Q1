@@ -30,7 +30,15 @@ public class Employee {
 	private void empAddress()
 	{
 	System.out.println("Method6");	
+	
 	}
+	
+	
+	private void divyaMethod()
+	{
+		System.out.println("Divya method");
+	}
+	
 	
 	public static void main(String[] args) {
 		
